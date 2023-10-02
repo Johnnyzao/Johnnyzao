@@ -5,11 +5,7 @@
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: On any of my social media.
 - ⚡ Fun fact: I am a gamer to, what a coicidence.
-<div align="center">
-  <a href="https://github.com/Johnnyzao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnnyzao&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyzao&layout=compact&langs_count=7&theme=merko"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
